@@ -2,6 +2,8 @@
 
 Read this before asking Mike anything. Last updated 2026-09-24.
 
+**This repo is public.** Do not add names, emails, loan numbers, or debts until Mike makes it private.
+
 ## Standing rules (from Mike's preferences)
 
 - Verify before acting. Check the real file, DB, or docket. Never assert from memory.
@@ -20,6 +22,20 @@ Read this before asking Mike anything. Last updated 2026-09-24.
 - Open item: "Balance Due" $848.78 on 2025 Pay 2026 (2nd half + penalty). No prior-year delinquency shown. No lien certificate sold.
 - 2026-09-24: Mike chose to skip the lender/title-company steps and ask his mom instead. A reminder fires 2026-09-24 12:00 UTC (8 AM ET) with three questions: pay the $848.78 now or at closing; who gets the Treasurer payoff letter; does the title company want the screenshots.
 - Constraint: the Claude Code cloud environment cannot reach myplace.cuyahogacounty.gov (egress policy 403). Re-pulls must run from a chat/Cowork session with normal browsing, not from this repo's cloud sessions.
+
+## Properties owned (bookkeeping list, February 2026)
+
+Addresses only. They are county public records. Keep personal and loan details out of this file while the repo is public.
+
+1. 924 Grace St, Lorain OH 44055
+2. 124 Gateway Blvd N, Elyria OH 44035
+3. 736 West River Rd N, Elyria OH 44035
+4. 826 W 11th St, Lorain OH 44052
+5. 1762 Oakdale Ave, Lorain OH 44052
+6. 1118 W 8th St, Lorain OH 44052
+7. 4311 E 160th St, Cleveland OH 44128
+
+Not on that list: 2911 and 426 Delaware Ave (being bought now, per Mike).
 
 ## Portfolio facts Mike stated (not verified against records)
 
