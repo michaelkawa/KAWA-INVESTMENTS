@@ -60,6 +60,12 @@ Repeat these to Mike when a deal or market decision comes up.
 9. **Remote rehab controls.** Pay the handyman only on photo/video-verified milestones. Keep a backup contractor. Do not rely on a realtor to judge trade work.
 10. **Batmasian is not a template for starting at zero.** He had 13 years of Cambridge apartment and condo-conversion experience and capital before Boca in 1983.
 
+## Guardrail verification (2026-11-04, web search only; statute and Selling Guide text NOT read directly)
+
+- **Guardrail 5 (Ohio SB 155): partly confirmed.** Signed 2025-12-01, effective 2026-03-02, codified as ORC 5301.95 ([Ohio REALTORS](https://www.ohiorealtors.org/blog/2306/real-estate-wholesaling-legislation-takes-effect/), [Spectrum News](https://spectrumnews1.com/oh/columbus/news/2026/03/04/predatory-real-estate-offers-law)). Written disclosure required before a binding contract on 1-4 unit residential property; seller can cancel if it is missing; the disclosure cannot be waived. One result quotes the bold, 12-point format but its snippet was cut off. **UNKNOWN:** the cancellation window (one vendor guide says 3 business days; other sources say any time before closing) and the exact required wording. Read ORC 5301.95 itself and have an Ohio attorney review before building the contract automation.
+- **Guardrail 2 (seasoning): refined.** Secondary sources say Fannie Mae's standard cash-out rule is about 6 months of ownership, and a delayed-financing exception lets a cash buyer refinance sooner, with loan size tied to documented purchase funds. Cash-out LTV caps cited: 75% for 1 unit, 70% for 2-4 units; one source says 70% for delayed financing. Not verified against Selling Guide B2-1.3-03. Other lenders (portfolio, DSCR) set their own rules, so get each lender's rule in writing as already stated.
+- `tools/refi.py` seasoning cap is an assumption, not a verified lender rule.
+
 ## Cowork status
 
 - No Cowork environment is attached to this account's Claude Code Remote setup as of 2026-09-19 (only the "Default" cloud environment exists). Cowork must be started by Mike from the Claude desktop or web app by selecting "Cowork" next to the message box.
